@@ -1,0 +1,9 @@
+# Folders
+node_modules
+.history
+.idea
+
+
+# Files
+package-lock.json
+.env
